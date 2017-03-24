@@ -1,0 +1,20 @@
+form {
+	display: inline-block;
+	width: 202px;
+}
+input {
+	margin: 20px 0px 10px 30px;
+}
+ul {
+	margin: 5px 0px 0px 30px;
+}
+li {
+	margin-top: 10px;
+	width: 200px;
+}
+p {
+	text-align: center;
+}
+img {
+	width: 200px;
+}
